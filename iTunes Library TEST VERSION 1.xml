@@ -1,0 +1,2000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>12.2.2.25</string>
+	<key>Date</key><date>2015-11-11T21:50:50Z</date>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Library Persistent ID</key><string>A9A1FBE597689EFB</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5654</key>
+		<dict>
+			<key>Track ID</key><integer>5654</integer>
+			<key>Size</key><integer>17977299</integer>
+			<key>Total Time</key><integer>1123000</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:39:46Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:29Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896409</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:29Z</date>
+			<key>Release Date</key><date>2007-08-06T16:14:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28E7</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Name</key><string>Blueshift Episode 4: Cool Science for Hot Times</string>
+			<key>Artist</key><string>NASA Goddard Space Flight Center</string>
+			<key>Album</key><string>Blueshift</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Blueshift:  A monthly podcast produced by the Astrophysics Science Division at NASA Goddard Space Flight Center.  Visit us at http://universe.nasa.gov/blueshift</string>
+			<key>Location</key><string>http://astrophysics.gsfc.nasa.gov/outreach/podcast/mp3/Blueshift_Episode4.mp3</string>
+		</dict>
+		<key>5656</key>
+		<dict>
+			<key>Track ID</key><integer>5656</integer>
+			<key>Date Added</key><date>2007-12-31T05:08:29Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD28EA</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Name</key><string>NASA Blueshift</string>
+			<key>Album</key><string>NASA Blueshift</string>
+			<key>Location</key><string>http://asd.gsfc.nasa.gov/outreach/podcast/podcast.xml</string>
+		</dict>
+		<key>5658</key>
+		<dict>
+			<key>Track ID</key><integer>5658</integer>
+			<key>Size</key><integer>18305137</integer>
+			<key>Total Time</key><integer>1144000</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:38:56Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:29Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896409</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:29Z</date>
+			<key>Release Date</key><date>2007-06-29T22:38:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28EB</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Name</key><string>Blueshift Episode 3: X-ray Vision</string>
+			<key>Artist</key><string>NASA Goddard Space Flight Center</string>
+			<key>Album</key><string>Blueshift</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Blueshift:  A monthly podcast produced by the Astrophysics Science Division at NASA Goddard Space Flight Center.  Visit us at http://universe.nasa.gov/blueshift</string>
+			<key>Location</key><string>http://astrophysics.gsfc.nasa.gov/outreach/podcast/mp3/Blueshift_Episode3.mp3</string>
+		</dict>
+		<key>5660</key>
+		<dict>
+			<key>Track ID</key><integer>5660</integer>
+			<key>Size</key><integer>19201368</integer>
+			<key>Total Time</key><integer>1200000</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:37:58Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:29Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896409</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:29Z</date>
+			<key>Release Date</key><date>2007-05-24T17:56:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28EC</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Name</key><string>Blueshift Episode 2: Life and Death</string>
+			<key>Artist</key><string>NASA Goddard Space Flight Center</string>
+			<key>Album</key><string>Blueshift</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Blueshift:  A monthly podcast produced by the Astrophysics Science Division at NASA Goddard Space Flight Center.  Visit us at http://astrophysics.gsfc.nasa.gov/podcast</string>
+			<key>Location</key><string>http://astrophysics.gsfc.nasa.gov/outreach/podcast/mp3/Blueshift_Episode2.mp3</string>
+		</dict>
+		<key>5662</key>
+		<dict>
+			<key>Track ID</key><integer>5662</integer>
+			<key>Size</key><integer>5132862</integer>
+			<key>Total Time</key><integer>425795</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:12:54Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:29Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-08-23T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 116: HubbleWatch for August 2007</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Aired On: August 23, 2007</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20116_%20HubbleWatch%20for%20August%20200.mp3</string>
+		</dict>
+		<key>5664</key>
+		<dict>
+			<key>Track ID</key><integer>5664</integer>
+			<key>Date Added</key><date>2007-12-31T05:08:30Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD28EF</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Name</key><string>Skywatch - MP3</string>
+			<key>Album</key><string>Skywatch - MP3</string>
+			<key>Location</key><string>http://hubblesite.org/explore_astronomy/skywatch/mp3.xml</string>
+		</dict>
+		<key>5666</key>
+		<dict>
+			<key>Track ID</key><integer>5666</integer>
+			<key>Size</key><integer>13469289</integer>
+			<key>Total Time</key><integer>841000</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:37:34Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:30Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>32000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896409</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:29Z</date>
+			<key>Release Date</key><date>2007-04-11T18:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28F0</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Name</key><string>Blueshift Episode 1: Why So Blue?</string>
+			<key>Artist</key><string>NASA Goddard Space Flight Center</string>
+			<key>Album</key><string>Blueshift</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Blueshift:  A monthly podcast produced by the Astrophysics Science Division at NASA Goddard Space Flight Center.  Visit us at http://astrophysics.gsfc.nasa.gov/podcast</string>
+			<key>Location</key><string>http://astrophysics.gsfc.nasa.gov/outreach/podcast/mp3/Blueshift_Episode1.mp3</string>
+		</dict>
+		<key>5668</key>
+		<dict>
+			<key>Track ID</key><integer>5668</integer>
+			<key>Size</key><integer>3236090</integer>
+			<key>Total Time</key><integer>267728</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:12:58Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:30Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-06-14T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 104: Sickness in Space</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20104_%20Sickness%20in%20Space.mp3</string>
+		</dict>
+		<key>5670</key>
+		<dict>
+			<key>Track ID</key><integer>5670</integer>
+			<key>Size</key><integer>3197378</integer>
+			<key>Total Time</key><integer>264515</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:00Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:30Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-06-07T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 103: China Shoots for the Moon</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20103_%20China%20Shoots%20for%20the%20Moon.mp3</string>
+		</dict>
+		<key>5672</key>
+		<dict>
+			<key>Track ID</key><integer>5672</integer>
+			<key>Size</key><integer>3247682</integer>
+			<key>Total Time</key><integer>268695</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:02Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:30Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-06-21T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 105: Globular Cluster Baby Booms</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Aired On: June 21, 2007</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20105_%20Globular%20Cluster%20Baby%20Boom.mp3</string>
+		</dict>
+		<key>5674</key>
+		<dict>
+			<key>Track ID</key><integer>5674</integer>
+			<key>Size</key><integer>3116681</integer>
+			<key>Total Time</key><integer>257776</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:04Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:30Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-06-28T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 106: Ring Around the Galaxies</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Aired On: June 28, 2007</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20106_%20Ring%20Around%20the%20Galaxies.mp3</string>
+		</dict>
+		<key>5676</key>
+		<dict>
+			<key>Track ID</key><integer>5676</integer>
+			<key>Size</key><integer>3200940</integer>
+			<key>Total Time</key><integer>264803</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:06Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:31Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-07-05T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 108: SOFIA Honors Historic Flight</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20108_%20SOFIA%20Honors%20Historic%20Flig.mp3</string>
+		</dict>
+		<key>5678</key>
+		<dict>
+			<key>Track ID</key><integer>5678</integer>
+			<key>Size</key><integer>5133430</integer>
+			<key>Total Time</key><integer>425795</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:10Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:32Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-06-28T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 107: HubbleWatch for June 2007</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Aired On: June 28, 2007</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20107_%20HubbleWatch%20for%20June%202007.mp3</string>
+		</dict>
+		<key>5680</key>
+		<dict>
+			<key>Track ID</key><integer>5680</integer>
+			<key>Size</key><integer>3208349</integer>
+			<key>Total Time</key><integer>265430</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:12Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:32Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-07-12T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 109: Details of a Distant Star</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20109_%20Details%20of%20a%20Distant%20Star.mp3</string>
+		</dict>
+		<key>5682</key>
+		<dict>
+			<key>Track ID</key><integer>5682</integer>
+			<key>Size</key><integer>3120238</integer>
+			<key>Total Time</key><integer>258089</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:14Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:33Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-07-19T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 110: Caves on Mars</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20110_%20Caves%20on%20Mars.mp3</string>
+		</dict>
+		<key>5684</key>
+		<dict>
+			<key>Track ID</key><integer>5684</integer>
+			<key>Size</key><integer>3122296</integer>
+			<key>Total Time</key><integer>258220</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:16Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:33Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-07-26T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 111: Small Wonders</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Aired On: July 26, 2007</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20111_%20Small%20Wonders.mp3</string>
+		</dict>
+		<key>5686</key>
+		<dict>
+			<key>Track ID</key><integer>5686</integer>
+			<key>Size</key><integer>3026034</integer>
+			<key>Total Time</key><integer>250226</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:18Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:33Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-08-02T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 112: Looking for Life in all the Wrong Places?</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Aired On: August 2, 2007</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20112_%20Looking%20for%20Life%20in%20all%20th.mp3</string>
+		</dict>
+		<key>5688</key>
+		<dict>
+			<key>Track ID</key><integer>5688</integer>
+			<key>Size</key><integer>2806099</integer>
+			<key>Total Time</key><integer>231915</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:20Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:33Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-08-09T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 113: The Space Sponge</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Aired On: August 9, 2007</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20113_%20The%20Space%20Sponge.mp3</string>
+		</dict>
+		<key>5690</key>
+		<dict>
+			<key>Track ID</key><integer>5690</integer>
+			<key>Size</key><integer>3206775</integer>
+			<key>Total Time</key><integer>265299</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:22Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:34Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-08-16T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 114: Mars Needs Volunteers</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Aired On: August 16, 2007</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20114_%20Mars%20Needs%20Volunteers.mp3</string>
+		</dict>
+		<key>5692</key>
+		<dict>
+			<key>Track ID</key><integer>5692</integer>
+			<key>Size</key><integer>3240084</integer>
+			<key>Total Time</key><integer>268068</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:24Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:34Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-08-23T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD28FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 115: One Lunar Eclipse Coming Up</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20115_%20One%20Lunar%20Eclipse%20Coming%20U.mp3</string>
+		</dict>
+		<key>5694</key>
+		<dict>
+			<key>Track ID</key><integer>5694</integer>
+			<key>Size</key><integer>1503680</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:32:54Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:36Z</date>
+			<key>Bit Rate</key><integer>97</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-26T07:01:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2906</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Eurasian Collared-Doves Expand</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/15%20Eurasian%20Collared-Doves%20Expand.mp3</string>
+		</dict>
+		<key>5696</key>
+		<dict>
+			<key>Track ID</key><integer>5696</integer>
+			<key>Date Added</key><date>2007-12-31T05:08:36Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD2908</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Location</key><string>http://www.birdnote.org/birdnotepodcast.xml</string>
+		</dict>
+		<key>5698</key>
+		<dict>
+			<key>Track ID</key><integer>5698</integer>
+			<key>Size</key><integer>1522427</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:32:54Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:36Z</date>
+			<key>Bit Rate</key><integer>98</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-14T07:02:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2909</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pelagic Birding Trip</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/10%20Pelagic%20Birding%20Trip.mp3</string>
+		</dict>
+		<key>5700</key>
+		<dict>
+			<key>Track ID</key><integer>5700</integer>
+			<key>Size</key><integer>1560030</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:32:56Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:36Z</date>
+			<key>Bit Rate</key><integer>101</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-15T07:02:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD290A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Woodpeckers and Forest Fires</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/11%20Woodpeckers%20and%20Forest%20Fires.mp3</string>
+		</dict>
+		<key>5702</key>
+		<dict>
+			<key>Track ID</key><integer>5702</integer>
+			<key>Size</key><integer>1557011</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:32:58Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:37Z</date>
+			<key>Bit Rate</key><integer>100</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-16T07:02:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD290B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Chickens Circle the Earth</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/12%20Chickens%20Circle%20the%20Earth.mp3</string>
+		</dict>
+		<key>5704</key>
+		<dict>
+			<key>Track ID</key><integer>5704</integer>
+			<key>Size</key><integer>1537079</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:32:58Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:37Z</date>
+			<key>Bit Rate</key><integer>99</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-17T07:02:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD290C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>African Fish-Eagle</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/13%20African%20Fish-Eagle.mp3</string>
+		</dict>
+		<key>5706</key>
+		<dict>
+			<key>Track ID</key><integer>5706</integer>
+			<key>Size</key><integer>1520841</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:33:00Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:37Z</date>
+			<key>Bit Rate</key><integer>98</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-18T07:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD290D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Birds at the Landfill</string>
+			<key>Artist</key><string>Seattle Audubon</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/Birds%20at%20the%20Landfill.mp3</string>
+		</dict>
+		<key>5708</key>
+		<dict>
+			<key>Track ID</key><integer>5708</integer>
+			<key>Size</key><integer>1511389</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:33:02Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:37Z</date>
+			<key>Bit Rate</key><integer>97</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD290E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Albatross Surfs the Wind</string>
+			<key>Artist</key><string>Seattle Audubon</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/Albatross%20Surfs%20the%20Wind.mp3</string>
+		</dict>
+		<key>5710</key>
+		<dict>
+			<key>Track ID</key><integer>5710</integer>
+			<key>Size</key><integer>1573510</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:33:04Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:38Z</date>
+			<key>Bit Rate</key><integer>101</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-20T07:02:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD290F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ivan Doig on a Birdless World</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/09%20Ivan%20Doig%20on%20a%20Birdless%20World.mp3</string>
+		</dict>
+		<key>5712</key>
+		<dict>
+			<key>Track ID</key><integer>5712</integer>
+			<key>Size</key><integer>1594107</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:33:04Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:38Z</date>
+			<key>Bit Rate</key><integer>103</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-22T07:02:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2910</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>California Condor Update</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/16%20California%20Condor%20Update.mp3</string>
+		</dict>
+		<key>5714</key>
+		<dict>
+			<key>Track ID</key><integer>5714</integer>
+			<key>Size</key><integer>1536785</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:33:06Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:38Z</date>
+			<key>Bit Rate</key><integer>99</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-24T07:02:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2911</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Frantic Fowl from Guinea</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/18%20Frantic%20Fowl%20from%20Guinea.mp3</string>
+		</dict>
+		<key>5716</key>
+		<dict>
+			<key>Track ID</key><integer>5716</integer>
+			<key>Size</key><integer>1536132</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:33:08Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:38Z</date>
+			<key>Bit Rate</key><integer>99</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2912</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Birds Helping People - Vineyards</string>
+			<key>Artist</key><string>Seattle Audubon</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/Birds%20Helping%20People%20-%20Vineyards.mp3</string>
+		</dict>
+		<key>5718</key>
+		<dict>
+			<key>Track ID</key><integer>5718</integer>
+			<key>Size</key><integer>30634453</integer>
+			<key>Total Time</key><integer>1914566</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-08-27T03:08:40Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-16T05:10:55Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD2913</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sleepy Sunday Show 3</string>
+			<key>Artist</key><string>tartanpodcast@gmail.com</string>
+			<key>Album</key><string>Mark's feed - stay subscribed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>sleepy sunday show #3 - let me know if you want a regular friday afternoon show!</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/Mark's%20feed%20-%20stay%20subscribed/Sleepy%20Sunday%20Show%203.mp3</string>
+		</dict>
+		<key>5720</key>
+		<dict>
+			<key>Track ID</key><integer>5720</integer>
+			<key>Date Added</key><date>2007-12-31T05:08:39Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD2915</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Location</key><string>http://feeds.feedburner.com/tartanpodcast</string>
+		</dict>
+		<key>5722</key>
+		<dict>
+			<key>Track ID</key><integer>5722</integer>
+			<key>Size</key><integer>17231225</integer>
+			<key>Total Time</key><integer>1075069</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>30720</integer>
+			<key>Date Modified</key><date>2007-08-27T03:10:38Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3283226411</integer>
+			<key>Play Date UTC</key><date>2008-01-15T15:20:11Z</date>
+			<key>Release Date</key><date>2007-06-11T10:59:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2916</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mellow Monday Show 34</string>
+			<key>Artist</key><string>tartanpodcast@gmail.com</string>
+			<key>Album Artist</key><string>tartan media productions</string>
+			<key>Composer</key><string>Mark Hunter</string>
+			<key>Album</key><string>Mark's feed - stay subscribed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/Mark's%20feed%20-%20stay%20subscribed/Mellow%20Monday%20Show%2034.mp3</string>
+		</dict>
+		<key>5724</key>
+		<dict>
+			<key>Track ID</key><integer>5724</integer>
+			<key>Size</key><integer>27356410</integer>
+			<key>Total Time</key><integer>1709400</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>30720</integer>
+			<key>Date Modified</key><date>2007-08-27T03:11:06Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3282971671</integer>
+			<key>Play Date UTC</key><date>2008-01-12T16:34:31Z</date>
+			<key>Release Date</key><date>2007-06-06T11:40:35Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD2917</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mellow Monday Show 33</string>
+			<key>Artist</key><string>tartanpodcast@gmail.com</string>
+			<key>Album Artist</key><string>Talking Voices Productions</string>
+			<key>Composer</key><string>Tartan Media Productions</string>
+			<key>Album</key><string>Mark's feed - stay subscribed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/Mark's%20feed%20-%20stay%20subscribed/Mellow%20Monday%20Show%2033.mp3</string>
+		</dict>
+		<key>5726</key>
+		<dict>
+			<key>Track ID</key><integer>5726</integer>
+			<key>Size</key><integer>20865604</integer>
+			<key>Total Time</key><integer>1285746</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>30720</integer>
+			<key>Date Modified</key><date>2007-08-27T03:13:02Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3283273325</integer>
+			<key>Play Date UTC</key><date>2008-01-16T04:22:05Z</date>
+			<key>Release Date</key><date>2007-06-25T14:14:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2918</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mellow Monday Show 35</string>
+			<key>Artist</key><string>tartanpodcast@gmail.com</string>
+			<key>Album Artist</key><string>tartan media productions</string>
+			<key>Composer</key><string>Mark Hunter</string>
+			<key>Album</key><string>Mark's feed - stay subscribed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/Mark's%20feed%20-%20stay%20subscribed/Mellow%20Monday%20Show%2035.mp3</string>
+		</dict>
+		<key>5728</key>
+		<dict>
+			<key>Track ID</key><integer>5728</integer>
+			<key>Size</key><integer>15045678</integer>
+			<key>Total Time</key><integer>939807</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-08-27T03:13:06Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-07-10T05:54:01Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2919</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>tpsls#7 - spotlight show #7 - alan emslie</string>
+			<key>Artist</key><string>tartanpodcast@gmail.com</string>
+			<key>Album</key><string>Mark's feed - stay subscribed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/Mark's%20feed%20-%20stay%20subscribed/tpsls%237%20-%20spotlight%20show%20%237%20-%20alan%20e.mp3</string>
+		</dict>
+		<key>5730</key>
+		<dict>
+			<key>Track ID</key><integer>5730</integer>
+			<key>Size</key><integer>20896423</integer>
+			<key>Total Time</key><integer>1284754</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>30720</integer>
+			<key>Date Modified</key><date>2007-08-27T03:14:10Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281897236</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:07:16Z</date>
+			<key>Release Date</key><date>2007-06-26T08:38:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD291A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>AICR Podcast Edition 01 - Colon Cancer</string>
+			<key>Artist</key><string>tartanpodcast@gmail.com</string>
+			<key>Album Artist</key><string>www.aicr.org.uk</string>
+			<key>Album</key><string>Mark's feed - stay subscribed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>AICR's podcast.  Today on the programme we discuss some of the frequently asked questions regarding colon cancer.  We also learn about some of the fundraising being carried on for AICR.</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/Mark's%20feed%20-%20stay%20subscribed/AICR%20Podcast%20Edition%2001%20-%20Colon%20Canc.mp3</string>
+		</dict>
+		<key>5732</key>
+		<dict>
+			<key>Track ID</key><integer>5732</integer>
+			<key>Size</key><integer>45215650</integer>
+			<key>Total Time</key><integer>1881312</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-08-27T03:20:52Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:41Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-07-31T07:52:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD291B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Something you'll enjoy - Sunday Best from Rob da Bank</string>
+			<key>Artist</key><string>tartanpodcast@gmail.com</string>
+			<key>Album</key><string>Mark's feed - stay subscribed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>all rights reserved... oowite?</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/Mark's%20feed%20-%20stay%20subscribed/09%20Something%20you'll%20enjoy%20-%20Sunday%20B.mp3</string>
+		</dict>
+		<key>5734</key>
+		<dict>
+			<key>Track ID</key><integer>5734</integer>
+			<key>Size</key><integer>35885466</integer>
+			<key>Total Time</key><integer>2242246</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-08-27T03:21:26Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-07-20T13:59:52Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD291C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Music, clips, skits</string>
+			<key>Artist</key><string>tartanpodcast@gmail.com</string>
+			<key>Album</key><string>Mark's feed - stay subscribed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Season 01 Edition 04.  No rants about banks and no opining on podcasts.  I play some great music from IODA and I get an exclusive telephone interview with David Beckham from him new home in LA.  Bonus.</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/Mark's%20feed%20-%20stay%20subscribed/Music,%20clips,%20skits.mp3</string>
+		</dict>
+		<key>5736</key>
+		<dict>
+			<key>Track ID</key><integer>5736</integer>
+			<key>Size</key><integer>41831923</integer>
+			<key>Total Time</key><integer>2614073</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>30720</integer>
+			<key>Date Modified</key><date>2007-08-27T03:22:02Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3283277876</integer>
+			<key>Play Date UTC</key><date>2008-01-16T05:37:56Z</date>
+			<key>Release Date</key><date>2007-06-14T17:35:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD291D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>tp110 - tartanpodcast #110</string>
+			<key>Artist</key><string>tartanpodcast@gmail.com</string>
+			<key>Album Artist</key><string>tartanpodcast@gmail.com</string>
+			<key>Composer</key><string>Mark Hunter</string>
+			<key>Album</key><string>Mark's feed - stay subscribed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/Mark's%20feed%20-%20stay%20subscribed/tp110%20-%20tartanpodcast%20%23110.mp3</string>
+		</dict>
+		<key>5738</key>
+		<dict>
+			<key>Track ID</key><integer>5738</integer>
+			<key>Size</key><integer>1248545</integer>
+			<key>Total Time</key><integer>155036</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:18Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:42Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-08-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2921</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for August 22, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20August%202.mp3</string>
+		</dict>
+		<key>5740</key>
+		<dict>
+			<key>Track ID</key><integer>5740</integer>
+			<key>Date Added</key><date>2007-12-31T05:08:42Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD2923</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Name</key><string>Commentary from APM: Marketplace</string>
+			<key>Album</key><string>Commentary from APM: Marketplace</string>
+			<key>Location</key><string>http://www.marketplace.org/node/612/podcast.xml</string>
+		</dict>
+		<key>5742</key>
+		<dict>
+			<key>Track ID</key><integer>5742</integer>
+			<key>Size</key><integer>25999147</integer>
+			<key>Total Time</key><integer>3248953</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T22:15:32Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:42Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-23T21:05:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2927</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Thomas Ricks: Iraq is a Shakespeare Tragedy</string>
+			<key>Artist</key><string>KUOW 94.9 Public Radio</string>
+			<key>Album</key><string>KUOW's Speaker's Forum</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/KUOW's%20Speaker's%20Forum/Thomas%20Ricks_%20Iraq%20is%20a%20Shakespeare.mp3</string>
+		</dict>
+		<key>5744</key>
+		<dict>
+			<key>Track ID</key><integer>5744</integer>
+			<key>Date Added</key><date>2007-12-31T05:08:43Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD2929</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Name</key><string>KUOW-FM: Speakers Forum  : NPR</string>
+			<key>Album</key><string>KUOW-FM: Speakers Forum  : NPR</string>
+			<key>Location</key><string>http://kuow.org/podcasts/721/rss.xml</string>
+		</dict>
+		<key>5746</key>
+		<dict>
+			<key>Track ID</key><integer>5746</integer>
+			<key>Size</key><integer>1210717</integer>
+			<key>Total Time</key><integer>150308</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:18Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:43Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-05-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD292D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for May 24, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20May%2024,.mp3</string>
+		</dict>
+		<key>5748</key>
+		<dict>
+			<key>Track ID</key><integer>5748</integer>
+			<key>Size</key><integer>1290352</integer>
+			<key>Total Time</key><integer>160261</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:20Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:43Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-05-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD292E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for May 30, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20May%2030,.mp3</string>
+		</dict>
+		<key>5750</key>
+		<dict>
+			<key>Track ID</key><integer>5750</integer>
+			<key>Size</key><integer>1201560</integer>
+			<key>Total Time</key><integer>149159</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:20Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:43Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-06-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD292F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for June 6, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20June%206,.mp3</string>
+		</dict>
+		<key>5752</key>
+		<dict>
+			<key>Track ID</key><integer>5752</integer>
+			<key>Size</key><integer>1108119</integer>
+			<key>Total Time</key><integer>137482</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:22Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:44Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-06-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2930</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for June 13, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20June%2013,.mp3</string>
+		</dict>
+		<key>5754</key>
+		<dict>
+			<key>Track ID</key><integer>5754</integer>
+			<key>Size</key><integer>929627</integer>
+			<key>Total Time</key><integer>115173</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:24Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:44Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-06-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2931</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for June 20, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20June%2020,.mp3</string>
+		</dict>
+		<key>5756</key>
+		<dict>
+			<key>Track ID</key><integer>5756</integer>
+			<key>Size</key><integer>1065684</integer>
+			<key>Total Time</key><integer>132179</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:24Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:44Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-06-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2932</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for June 27, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20June%2027,.mp3</string>
+		</dict>
+		<key>5758</key>
+		<dict>
+			<key>Track ID</key><integer>5758</integer>
+			<key>Size</key><integer>1388769</integer>
+			<key>Total Time</key><integer>172564</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:26Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:44Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-07-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2933</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for July 11, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20July%2011,.mp3</string>
+		</dict>
+		<key>5760</key>
+		<dict>
+			<key>Track ID</key><integer>5760</integer>
+			<key>Size</key><integer>1224521</integer>
+			<key>Total Time</key><integer>152032</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:26Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:45Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-07-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2934</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for July 18, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20July%2018,.mp3</string>
+		</dict>
+		<key>5762</key>
+		<dict>
+			<key>Track ID</key><integer>5762</integer>
+			<key>Size</key><integer>1096822</integer>
+			<key>Total Time</key><integer>136071</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:28Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:45Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-08-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2935</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for August 15, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20August%201.mp3</string>
+		</dict>
+		<key>5764</key>
+		<dict>
+			<key>Track ID</key><integer>5764</integer>
+			<key>Size</key><integer>25999082</integer>
+			<key>Total Time</key><integer>3248953</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T22:15:32Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-07-19T21:05:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD293F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Joseph Stiglitz on Globalization</string>
+			<key>Artist</key><string>KUOW 94.9 Public Radio</string>
+			<key>Album</key><string>KUOW's Speaker's Forum</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/KUOW's%20Speaker's%20Forum/Joseph%20Stiglitz%20on%20Globalization.mp3</string>
+		</dict>
+		<key>5766</key>
+		<dict>
+			<key>Track ID</key><integer>5766</integer>
+			<key>Size</key><integer>25994891</integer>
+			<key>Total Time</key><integer>3248404</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T22:15:32Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-07-26T21:05:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2940</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Confession From an Economic Hit Man</string>
+			<key>Artist</key><string>KUOW 94.9 Public Radio</string>
+			<key>Album</key><string>KUOW's Speaker's Forum</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/KUOW's%20Speaker's%20Forum/Confession%20From%20an%20Economic%20Hit%20Man.mp3</string>
+		</dict>
+		<key>5768</key>
+		<dict>
+			<key>Track ID</key><integer>5768</integer>
+			<key>Size</key><integer>25994751</integer>
+			<key>Total Time</key><integer>3248404</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T22:15:34Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-02T21:05:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2941</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sasha Abramsky on the 'Age of Mass Imprisonment'</string>
+			<key>Artist</key><string>KUOW 94.9 Public Radio</string>
+			<key>Album</key><string>KUOW's Speaker's Forum</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/KUOW's%20Speaker's%20Forum/Sasha%20Abramsky%20on%20the%20'Age%20of%20Mass%20I.mp3</string>
+		</dict>
+		<key>5770</key>
+		<dict>
+			<key>Track ID</key><integer>5770</integer>
+			<key>Size</key><integer>25994821</integer>
+			<key>Total Time</key><integer>3248404</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T22:15:34Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-09T21:05:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2942</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Matthew Rothschild: America's Age of Repression</string>
+			<key>Artist</key><string>KUOW 94.9 Public Radio</string>
+			<key>Album</key><string>KUOW's Speaker's Forum</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/KUOW's%20Speaker's%20Forum/Matthew%20Rothschild_%20America's%20Age%20of.mp3</string>
+		</dict>
+		<key>5772</key>
+		<dict>
+			<key>Track ID</key><integer>5772</integer>
+			<key>Size</key><integer>1532771</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:33:08Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:49Z</date>
+			<key>Bit Rate</key><integer>99</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-28T07:02:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2943</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Roger Tory Peterson Part II</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/20%20Roger%20Tory%20Peterson%20Part%20II.mp3</string>
+		</dict>
+		<key>5774</key>
+		<dict>
+			<key>Track ID</key><integer>5774</integer>
+			<key>Size</key><integer>1543823</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:33:10Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:49Z</date>
+			<key>Bit Rate</key><integer>99</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-27T07:02:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2946</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Roger Tory Peterson Part I</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/19%20Roger%20Tory%20Peterson%20Part%20I.mp3</string>
+		</dict>
+		<key>5776</key>
+		<dict>
+			<key>Track ID</key><integer>5776</integer>
+			<key>Size</key><integer>1602569</integer>
+			<key>Total Time</key><integer>124107</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:33:12Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:50Z</date>
+			<key>Bit Rate</key><integer>100</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-08-23T07:02:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2947</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Birding from the Ferry</string>
+			<key>Artist</key><string>Tune In to Nature.org</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/Birding%20from%20the%20Ferry.mp3</string>
+		</dict>
+		<key>5778</key>
+		<dict>
+			<key>Track ID</key><integer>5778</integer>
+			<key>Size</key><integer>3259794</integer>
+			<key>Total Time</key><integer>269688</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:13:26Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:52Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899206</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:06Z</date>
+			<key>Release Date</key><date>2007-08-30T15:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2951</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show 117: Earth and Sky</string>
+			<key>Artist</key><string>Carol Christian &#38; Jim O'Leary</string>
+			<key>Composer</key><string>Kelly T.S. Williamson</string>
+			<key>Album</key><string>SkyWatch</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/SkyWatch/Show%20117_%20Earth%20and%20Sky.mp3</string>
+		</dict>
+		<key>5780</key>
+		<dict>
+			<key>Track ID</key><integer>5780</integer>
+			<key>Size</key><integer>1530404</integer>
+			<key>Total Time</key><integer>120084</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:33:12Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:53Z</date>
+			<key>Bit Rate</key><integer>99</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896391</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:53:11Z</date>
+			<key>Release Date</key><date>2007-09-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2952</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Darwin's Birds</string>
+			<key>Artist</key><string>Seattle Audubon</string>
+			<key>Album</key><string>BirdNote Podcast RSS Feed</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/BirdNote%20Podcast%20RSS%20Feed/Darwin's%20Birds.mp3</string>
+		</dict>
+		<key>5782</key>
+		<dict>
+			<key>Track ID</key><integer>5782</integer>
+			<key>Size</key><integer>1114162</integer>
+			<key>Total Time</key><integer>138240</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T21:31:28Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:54Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281896309</integer>
+			<key>Play Date UTC</key><date>2007-12-31T05:51:49Z</date>
+			<key>Release Date</key><date>2007-08-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2956</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Robert Reich Commentary for August 30, 2007</string>
+			<key>Album</key><string>APM: Robert Reich Commentaries from Marketplace</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/APM_%20Robert%20Reich%20Commentaries%20from%20Mark/Robert%20Reich%20Commentary%20for%20August%203.mp3</string>
+		</dict>
+		<key>5784</key>
+		<dict>
+			<key>Track ID</key><integer>5784</integer>
+			<key>Size</key><integer>25994791</integer>
+			<key>Total Time</key><integer>3248404</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-11T22:15:34Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:54Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-30T21:05:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2957</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Marion Nestle Helps You Figure Out 'What To Eat'</string>
+			<key>Artist</key><string>KUOW 94.9 Public Radio</string>
+			<key>Album</key><string>KUOW's Speaker's Forum</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/KUOW's%20Speaker's%20Forum/Marion%20Nestle%20Helps%20You%20Figure%20Out%20'.mp3</string>
+		</dict>
+		<key>5786</key>
+		<dict>
+			<key>Track ID</key><integer>5786</integer>
+			<key>Size</key><integer>24002817</integer>
+			<key>Total Time</key><integer>1499768</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-10-14T03:42:18Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899236</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:36Z</date>
+			<key>Release Date</key><date>2007-08-28T05:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2960</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>This is Your Brain On Love (Radio Lab)</string>
+			<key>Artist</key><string>Jad Abumrad &#38; Robert Krulwich</string>
+			<key>Album</key><string>WNYC's Radio Lab</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/WNYC's%20Radio%20Lab/This%20is%20Your%20Brain%20On%20Love%20(Radio%20La.mp3</string>
+		</dict>
+		<key>5788</key>
+		<dict>
+			<key>Track ID</key><integer>5788</integer>
+			<key>Date Added</key><date>2007-12-31T05:08:56Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD2962</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Name</key><string>Radiolab</string>
+			<key>Album</key><string>Radiolab</string>
+			<key>Location</key><string>http://www.wnyc.org/shows/radiolab/index.xml</string>
+		</dict>
+		<key>5790</key>
+		<dict>
+			<key>Track ID</key><integer>5790</integer>
+			<key>Size</key><integer>54727640</integer>
+			<key>Total Time</key><integer>3420055</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-10-14T03:40:22Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3283096680</integer>
+			<key>Play Date UTC</key><date>2008-01-14T03:18:00Z</date>
+			<key>Release Date</key><date>2007-04-10T05:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2963</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stress  (Radio Lab)</string>
+			<key>Artist</key><string>Jad Abumrad &#38; Robert Krulwich</string>
+			<key>Album</key><string>WNYC's Radio Lab</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/WNYC's%20Radio%20Lab/Stress%20%20(Radio%20Lab).mp3</string>
+		</dict>
+		<key>5792</key>
+		<dict>
+			<key>Track ID</key><integer>5792</integer>
+			<key>Size</key><integer>55446595</integer>
+			<key>Total Time</key><integer>3464960</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-10-14T03:40:40Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3283363360</integer>
+			<key>Play Date UTC</key><date>2008-01-17T05:22:40Z</date>
+			<key>Release Date</key><date>2007-05-29T22:08:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2964</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Time (Radio Lab)</string>
+			<key>Artist</key><string>Jad Abumrad &#38; Robert Krulwich</string>
+			<key>Album</key><string>WNYC's Radio Lab</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/WNYC's%20Radio%20Lab/Time%20(Radio%20Lab).mp3</string>
+		</dict>
+		<key>5794</key>
+		<dict>
+			<key>Track ID</key><integer>5794</integer>
+			<key>Size</key><integer>55173240</integer>
+			<key>Total Time</key><integer>3447823</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-10-14T03:40:58Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3282160198</integer>
+			<key>Play Date UTC</key><date>2008-01-03T07:09:58Z</date>
+			<key>Release Date</key><date>2007-05-08T05:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2965</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Who Am I? (Radio Lab)</string>
+			<key>Artist</key><string>Jad Abumrad &#38; Robert Krulwich</string>
+			<key>Album</key><string>WNYC's Radio Lab</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/WNYC's%20Radio%20Lab/Who%20Am%20I_%20(Radio%20Lab).mp3</string>
+		</dict>
+		<key>5796</key>
+		<dict>
+			<key>Track ID</key><integer>5796</integer>
+			<key>Size</key><integer>57311940</integer>
+			<key>Total Time</key><integer>3581596</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-10-14T03:41:10Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3281899255</integer>
+			<key>Play Date UTC</key><date>2007-12-31T06:40:55Z</date>
+			<key>Release Date</key><date>2007-05-18T05:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2966</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Placebo (Radio Lab)</string>
+			<key>Artist</key><string>Jad Abumrad &#38; Robert Krulwich</string>
+			<key>Album</key><string>WNYC's Radio Lab</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Podcasts/WNYC's%20Radio%20Lab/Placebo%20(Radio%20Lab).mp3</string>
+		</dict>
+		<key>5798</key>
+		<dict>
+			<key>Track ID</key><integer>5798</integer>
+			<key>Size</key><integer>4069040</integer>
+			<key>Total Time</key><integer>231183</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Date Modified</key><date>2007-10-01T06:38:34Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2967</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pop Goes The Weasel (Radio Edit)</string>
+			<key>Artist</key><string>3rd Bass</string>
+			<key>Album</key><string>Pop Goes The Weasel</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Music/3rd%20Bass/Pop%20Goes%20The%20Weasel/01%20Pop%20Goes%20The%20Weasel%20(Radio%20Edit).mp3</string>
+		</dict>
+		<key>5800</key>
+		<dict>
+			<key>Track ID</key><integer>5800</integer>
+			<key>Size</key><integer>4149706</integer>
+			<key>Total Time</key><integer>236225</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Date Modified</key><date>2007-10-01T06:38:36Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2968</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pop Goes The Weasel (LP Version)</string>
+			<key>Artist</key><string>3rd Bass</string>
+			<key>Album</key><string>Pop Goes The Weasel</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Music/3rd%20Bass/Pop%20Goes%20The%20Weasel/02%20Pop%20Goes%20The%20Weasel%20(LP%20Version).mp3</string>
+		</dict>
+		<key>5802</key>
+		<dict>
+			<key>Track ID</key><integer>5802</integer>
+			<key>Size</key><integer>4200699</integer>
+			<key>Total Time</key><integer>239412</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Date Modified</key><date>2007-10-01T06:38:36Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD140D632DD2969</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pop Goes The Weasel (Instrumental)</string>
+			<key>Artist</key><string>3rd Bass</string>
+			<key>Album</key><string>Pop Goes The Weasel</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Music/3rd%20Bass/Pop%20Goes%20The%20Weasel/03%20Pop%20Goes%20The%20Weasel%20(Instrumental.mp3</string>
+		</dict>
+		<key>5804</key>
+		<dict>
+			<key>Track ID</key><integer>5804</integer>
+			<key>Size</key><integer>4763439</integer>
+			<key>Total Time</key><integer>297586</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2001-10-06T04:49:54Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:59Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3463233555</integer>
+			<key>Play Date UTC</key><date>2013-09-29T00:19:15Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD296A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nutshell</string>
+			<key>Artist</key><string>Alice In Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Music/Alice%20In%20Chains/Unplugged/01%20Nutshell.mp3</string>
+		</dict>
+		<key>5806</key>
+		<dict>
+			<key>Track ID</key><integer>5806</integer>
+			<key>Size</key><integer>5239494</integer>
+			<key>Total Time</key><integer>327340</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2001-10-06T04:51:52Z</date>
+			<key>Date Added</key><date>2007-12-31T05:08:59Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3463233882</integer>
+			<key>Play Date UTC</key><date>2013-09-29T00:24:42Z</date>
+			<key>Persistent ID</key><string>BBD140D632DD296B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Brother</string>
+			<key>Artist</key><string>Alice In Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file://localhost/Volumes/share/terryn/My%20Documents/My%20Music/iTunes/iTunes%20Music/Music/Alice%20In%20Chains/Unplugged/02%20Brother.mp3</string>
+		</dict>
+		<key>5808</key>
+		<dict>
+			<key>Track ID</key><integer>5808</integer>
+			<key>Size</key><integer>4758841</integer>
+			<key>Total Time</key><integer>297299</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2001-10-06T04:53:38Z</date>
