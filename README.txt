@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------
-                         Canon Auto Update Service
+                    iTunes Library DisOrganize Utility
                                 README file
 
                                 Version 1.0.1
