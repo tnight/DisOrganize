@@ -1,0 +1,10 @@
+# This file lists which files GIT should ignore
+#
+
+# Ignore Emacs backup files
+*~
+
+# Ignore log files
+*.*log
+
+# [end]
